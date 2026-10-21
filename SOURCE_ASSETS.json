@@ -1,0 +1,39 @@
+{
+  "content_sources": [
+    "https://roland.dental/",
+    "https://roland.dental/dwx52di",
+    "https://roland.dental/dwx43w",
+    "https://roland.dental/dwx53d",
+    "https://roland.dental/dwx53dc"
+  ],
+  "notes": "Original bytes downloaded from image references in the permitted pages. No generated product imagery or logos. Only CSS framing, blending, and clipping are used for presentation. Runtime image and font URLs are local.",
+  "assets": {
+    "logo.png": "https://static.tildacdn.one/tild3731-3134-4765-b665-663135653264/DG_Shape_Logo_White.png",
+    "dwx52di-hero.png": "https://static.tildacdn.one/tild6262-6263-4538-b737-376335636435/DWX-52Di_1.png",
+    "dwx52di-side.png": "https://static.tildacdn.one/tild3865-6364-4133-a565-613735646264/DWX-52Di_2.png",
+    "dwx52di-detail.jpg": "https://static.tildacdn.one/tild6163-3338-4664-b536-633837663061/DWX-52Di_photo_insid.jpg",
+    "dwx43w-front.webp": "https://static.tildacdn.net/tild3063-3338-4233-a330-336235323938/DWX-43W_photo_front_.webp",
+    "dwx43w-hero.webp": "https://static.tildacdn.net/tild6239-3932-4038-b266-306333363763/DWX-43W_photo_front_.webp",
+    "dwx43w-detail.webp": "https://static.tildacdn.net/tild3235-6234-4763-a639-653265343930/DWX-43W_photo_inside.webp",
+    "dwx53d-hero.png": "https://static.tildacdn.one/tild6133-3436-4938-a235-623031386564/DWX-53D_photo_left_b.png",
+    "dwx53d-angle.png": "https://static.tildacdn.one/tild6632-6263-4265-b432-623834303463/DWX-53D_3.png",
+    "dwx53d-gallery1.png": "https://static.tildacdn.one/tild6431-3739-4536-b438-663236376166/DWX-53D_1.png",
+    "dwx53d-milling.jpg": "https://static.tildacdn.one/tild6666-6563-4533-b163-353963333531/DWX-53D_photo_millin.jpg",
+    "dwx53d-openedge.png": "https://static.tildacdn.one/tild3961-3761-4135-b562-386436303131/OpenEDGE.png",
+    "dwx53dc-gallery1.jpg": "https://static.tildacdn.one/tild3261-3336-4634-b266-623964393263/DWX_53DC_1.jpg",
+    "dwx53dc-gallery2.jpg": "https://static.tildacdn.one/tild3065-3761-4462-b636-376435343536/DWX_53DC_2.jpg",
+    "dwx53dc-detail.jpg": "https://static.tildacdn.one/tild3334-6437-4665-a138-656537666238/DWX_53DC_32.jpg",
+    "manrope-cyrillic.woff2": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSuXd.woff2",
+    "manrope-latin.woff2": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2"
+  },
+  "videos": {
+    "dwx53d": {
+      "id": "Z8475pSajkQ",
+      "verified": "YouTube oEmbed HTTP 200; DWX 53D Official video"
+    },
+    "dwx53dc": {
+      "id": "kn6OFf3aNUo",
+      "verified": "YouTube oEmbed HTTP 200; DWX 53DC, Yamamoto Dental Group"
+    }
+  }
+}

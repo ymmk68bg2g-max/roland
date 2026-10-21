@@ -1,0 +1,47 @@
+{
+  "logo": "/assets/logo.png",
+  "technology": "/assets/dwx53d-milling.jpg",
+  "products": {
+    "dwx52di": {
+      "hero": "/assets/dwx52di-hero.png",
+      "card": "/assets/dwx52di-hero.png",
+      "gallery": [
+        "/assets/dwx52di-hero.png",
+        "/assets/dwx52di-side.png",
+        "/assets/dwx52di-detail.jpg"
+      ],
+      "detail": "/assets/dwx52di-detail.jpg"
+    },
+    "dwx43w": {
+      "hero": "/assets/dwx43w-front.webp",
+      "card": "/assets/dwx43w-front.webp",
+      "gallery": [
+        "/assets/dwx43w-front.webp",
+        "/assets/dwx43w-hero.webp",
+        "/assets/dwx43w-detail.webp"
+      ],
+      "detail": "/assets/dwx43w-detail.webp"
+    },
+    "dwx53d": {
+      "hero": "/assets/dwx53d-hero.png",
+      "card": "/assets/dwx53d-angle.png",
+      "gallery": [
+        "/assets/dwx53d-gallery1.png",
+        "/assets/dwx53d-angle.png",
+        "/assets/dwx53d-milling.jpg",
+        "/assets/dwx53d-openedge.png"
+      ],
+      "detail": "/assets/dwx53d-milling.jpg"
+    },
+    "dwx53dc": {
+      "hero": "/assets/dwx53dc-gallery1.jpg",
+      "card": "/assets/dwx53dc-gallery1.jpg",
+      "gallery": [
+        "/assets/dwx53dc-gallery1.jpg",
+        "/assets/dwx53dc-gallery2.jpg",
+        "/assets/dwx53dc-detail.jpg"
+      ],
+      "detail": "/assets/dwx53dc-detail.jpg"
+    }
+  }
+}
