@@ -1,5 +1,6 @@
 {
   "logo": "/assets/logo.png",
+  "favicon": "/assets/favicon.ico",
   "technology": "/assets/dwx53d-milling.jpg",
   "products": {
     "dwx52di": {
@@ -31,7 +32,8 @@
         "/assets/dwx53d-milling.jpg",
         "/assets/dwx53d-openedge.png"
       ],
-      "detail": "/assets/dwx53d-milling.jpg"
+      "detail": "/assets/dwx53d-milling.jpg",
+      "heroMask": "/assets/dwx53d-hero-mask.svg"
     },
     "dwx53dc": {
       "hero": "/assets/dwx53dc-gallery1.jpg",
@@ -41,7 +43,9 @@
         "/assets/dwx53dc-gallery2.jpg",
         "/assets/dwx53dc-detail.jpg"
       ],
-      "detail": "/assets/dwx53dc-detail.jpg"
+      "detail": "/assets/dwx53dc-detail.jpg",
+      "heroMask": "/assets/dwx53dc-hero-mask.svg"
     }
-  }
+  },
+  "workflow": "/assets/dgshape-digital-workflow.jpg"
 }

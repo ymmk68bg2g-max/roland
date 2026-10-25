@@ -1,0 +1,262 @@
+{
+  "portraits": {
+    "Василь Бородиця": {
+      "src": "/assets/review-vasyl-borodytsia.webp",
+      "alt": "Василь Бородиця"
+    },
+    "Сергій Грибовський": {
+      "src": "/assets/review-serhii-hrybovskyi.webp",
+      "alt": "Сергій Грибовський"
+    },
+    "Назарій Михайлюк": {
+      "src": "/assets/review-nazarii-mykhailiuk.webp",
+      "alt": "Назарій Михайлюк"
+    }
+  },
+  "products": {
+    "dwx52di": {
+      "gallery": [
+        "/assets/dwx52di-hero.png",
+        "/assets/dwx52di-side.png",
+        "/assets/dwx52di-detail.jpg",
+        "/assets/dwx52di-gallery-closeup.webp"
+      ],
+      "restorations": [],
+      "features": [
+        {
+          "src": "/assets/dwx52di-benefit-1.svg",
+          "title": "Спрощена робота з VPanel",
+          "kind": "icon"
+        },
+        {
+          "src": "/assets/dwx52di-benefit-2.svg",
+          "title": "Просте обслуговування",
+          "kind": "icon"
+        },
+        {
+          "src": "/assets/dwx52di-benefit-3.svg",
+          "title": "C-Clamp: більше з одного диска",
+          "kind": "icon"
+        },
+        {
+          "src": "/assets/dwx52di-benefit-4.svg",
+          "title": "Автоматична зміна 15 інструментів",
+          "kind": "icon"
+        },
+        {
+          "src": "/assets/dwx52di-benefit-5.svg",
+          "title": "П’ятиосьове фрезерування",
+          "kind": "icon"
+        },
+        {
+          "src": "/assets/dwx52di-benefit-6.svg",
+          "title": "Чисте та ефективне фрезерування",
+          "kind": "icon"
+        }
+      ]
+    },
+    "dwx43w": {
+      "gallery": [
+        "/assets/dwx43w-front.webp",
+        "/assets/dwx43w-hero.webp",
+        "/assets/dwx43w-detail.webp",
+        "/assets/dwx43w-gallery-1.webp",
+        "/assets/dwx43w-gallery-2.webp",
+        "/assets/dwx43w-gallery-3.webp",
+        "/assets/dwx43w-gallery-4.webp"
+      ],
+      "restorations": [
+        {
+          "name": "накладки",
+          "src": "/assets/dwx43w-restoration-preview-onlay-wet-dw.webp"
+        },
+        {
+          "name": "вініри",
+          "src": "/assets/dwx43w-restoration-veneer-wet-dwx.webp"
+        },
+        {
+          "name": "вкладки",
+          "src": "/assets/dwx43w-restoration-preview-inlay-wet-dw.webp"
+        },
+        {
+          "name": "коронки",
+          "src": "/assets/dwx43w-restoration-preview-crown-wet-dw.webp"
+        },
+        {
+          "name": "оверлей",
+          "src": "/assets/dwx43w-restoration-preview-overlay-wet-.webp"
+        },
+        {
+          "name": "містки",
+          "src": "/assets/dwx43w-restoration-bridge-wet-dwx.webp"
+        },
+        {
+          "name": "абатменти",
+          "src": "/assets/dwx43w-restoration-abutments-wet-dwx.webp"
+        }
+      ],
+      "features": [
+        {
+          "src": "/assets/dwx43w-restoration-samples.webp",
+          "title": "Універсальність мокрого фрезерування"
+        },
+        {
+          "src": "/assets/dwx43w-stable-frame.webp",
+          "title": "Стабільна точність"
+        },
+        {
+          "src": "/assets/dwx43w-automatic-maintenance.webp",
+          "title": "Автоматизоване обслуговування"
+        },
+        {
+          "src": "/assets/dwx43w-six-block-holder.webp",
+          "title": "До шести пін-блоків одночасно"
+        },
+        {
+          "src": "/assets/dwx43w-cam-monitor.webp",
+          "title": "DGSHAPE CAM у комплекті"
+        }
+      ],
+      "materialsImage": "/assets/dwx43w-bg_1.webp"
+    },
+    "dwx53d": {
+      "gallery": [
+        "/assets/dwx53d-gallery1.png",
+        "/assets/dwx53d-angle.png",
+        "/assets/dwx53d-milling.jpg",
+        "/assets/dwx53d-openedge.png",
+        "/assets/dwx53d-gallery-2.webp",
+        "/assets/dwx53d-gallery-4.webp"
+      ],
+      "restorations": [
+        {
+          "name": "вкладки",
+          "src": "/assets/dwx53d-restoration-inlay_all_dwx.webp"
+        },
+        {
+          "name": "накладки",
+          "src": "/assets/dwx53d-restoration-onlay_dry_dwx.webp"
+        },
+        {
+          "name": "оверлей",
+          "src": "/assets/dwx53d-restoration-overlay_all_dwx.webp"
+        },
+        {
+          "name": "коронки",
+          "src": "/assets/dwx53d-restoration-crown_dry_dwx.webp"
+        },
+        {
+          "name": "вініри",
+          "src": "/assets/dwx53d-restoration-veneer_dry_dwx.webp"
+        },
+        {
+          "name": "мости",
+          "src": "/assets/dwx53d-restoration-bridge_dry_dwx.webp"
+        },
+        {
+          "name": "балки на імплантатах",
+          "src": "/assets/dwx53d-restoration-implant_bar_dry_dwx.webp"
+        },
+        {
+          "name": "оклюзійні сплінти",
+          "src": "/assets/dwx53d-restoration-occlusal_splint_and_.webp"
+        },
+        {
+          "name": "мости торонто",
+          "src": "/assets/dwx53d-restoration-toronto_bridge_denta.webp"
+        },
+        {
+          "name": "знімні стоматологічні конструкції",
+          "src": "/assets/dwx53d-restoration-removable_dental_pro.webp"
+        },
+        {
+          "name": "хірургічні шаблони",
+          "src": "/assets/dwx53d-restoration-surgical_guide_dry_d.webp"
+        },
+        {
+          "name": "ковпачки",
+          "src": "/assets/dwx53d-restoration-copings_dry_dwx.webp"
+        }
+      ],
+      "features": [
+        {
+          "src": "/assets/dwx53d-reinforced-frame.webp",
+          "title": "Посилена конструкція"
+        },
+        {
+          "src": "/assets/dwx53d-speed.webp",
+          "title": "Швидкість"
+        },
+        {
+          "src": "/assets/dwx53d-precision.webp",
+          "title": "Точність"
+        },
+        {
+          "src": "/assets/dwx53d-automatic-cleaning.webp",
+          "title": "Автоматична система очищення"
+        },
+        {
+          "src": "/assets/dwx53d-openedge.png",
+          "title": "Open Edge Adapter"
+        },
+        {
+          "src": "/assets/dwx53d-remote-camera.webp",
+          "title": "Вбудована камера"
+        },
+        {
+          "src": "/assets/dwx53d-vpanel.webp",
+          "title": "Керування через VPanel"
+        }
+      ],
+      "materialsImage": "/assets/dwx53d-material-samples.webp"
+    },
+    "dwx53dc": {
+      "gallery": [
+        "/assets/dwx53dc-gallery1.jpg",
+        "/assets/dwx53dc-gallery2.jpg",
+        "/assets/dwx53dc-detail.jpg",
+        "/assets/dwx53dc-gallery3.webp"
+      ],
+      "restorations": [],
+      "features": [
+        {
+          "src": "/assets/dwx53dc-detail.jpg",
+          "title": "Технологія та дизайн"
+        },
+        {
+          "src": "/assets/dwx53dc-remote-camera.webp",
+          "title": "Цілодобовий віддалений моніторинг"
+        },
+        {
+          "src": "/assets/dwx53dc-spindle.webp",
+          "title": "Новий шпиндель"
+        },
+        {
+          "src": "/assets/dwx53dc-temperature-calibration.webp",
+          "title": "Температурна компенсація"
+        },
+        {
+          "src": "/assets/dwx53dc-five-axis.webp",
+          "title": "5-осьове фрезерування"
+        },
+        {
+          "src": "/assets/dwx53dc-disc-changer.webp",
+          "title": "Автоматична зміна шести дисків"
+        },
+        {
+          "src": "/assets/dwx53dc-tool-control.webp",
+          "title": "Intelligent Tool Control"
+        },
+        {
+          "src": "/assets/dwx53dc-dust-extraction.webp",
+          "title": "Автоматизована екосистема"
+        },
+        {
+          "src": "/assets/dwx53dc-cloud.webp",
+          "title": "DGSHAPE CLOUD"
+        }
+      ]
+    }
+  },
+  "notes": "All raster assets retrieved from roland.dental original pages. Material illustrations are shared source compositions, not per-material pictures. Restoration selectors can use each accurately labeled source image."
+}
